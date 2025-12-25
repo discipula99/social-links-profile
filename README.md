@@ -34,10 +34,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Flexbox
 - Mobile-first workflow
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
 ## Author
 
 - Frontend Mentor - [@discipula99](https://www.frontendmentor.io/profile/discipula99)
